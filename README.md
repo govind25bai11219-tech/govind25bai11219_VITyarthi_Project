@@ -30,6 +30,7 @@ Learned how to assess whether a source is trustworthy using the SIFT method (Sto
 
 ### Task 3 — Online Privacy & Data Security
 Looked at how much data we generate passively without realising it. Covered practical password hygiene, two-factor authentication, app permission audits, and what a proper privacy settings review looks like. A lot of this was stuff I knew in theory but hadn't actually applied.
+Google Form: https://docs.google.com/forms/d/e/1FAIpQLSc-oI8xK1rYTdn8yORSmZzXePhoy5wqK9ghmIT2mGBSbEIsFw/viewform?usp=publish-editor
 
 ### Task 4 — Email Etiquettes & Social Media Responsibility
 **Part A** — Wrote two professional emails: one requesting a deadline extension from a professor, another expressing interest in a summer internship at Reliance. Both follow correct email etiquette — formal tone, specific details, clear ask, polite close.
